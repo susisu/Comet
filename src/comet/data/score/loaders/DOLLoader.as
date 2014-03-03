@@ -428,7 +428,7 @@ package comet.data.score.loaders
                 else
                 {
                     var seq:ICueSequence =
-                        (score.parts[(Math.floor(col.value) - 1) * (Math.floor(type.value) - 1)] as INotePart).cueSequence;
+                        (score.parts[numCols * (Math.floor(type.value) - 1) + Math.floor(col.value) - 1] as INotePart).cueSequence;
                     if(seq === null)
                     {
                         throw new OperationalError("type is not initialized: " + this.toString());
