@@ -1,0 +1,112 @@
+<overviews>
+    <packages>
+        <package name="comet">
+            <shortDescription>
+                <![CDATA[
+                    Comet music game library.
+                ]]>
+            </shortDescription>
+            <description>
+                <![CDATA[
+                    Comet music game library.
+                ]]>
+            </description>
+        </package>
+        <package name="comet.data">
+            <shortDescription>
+                <![CDATA[
+                    The comet.data package contains the classes and the interfaces that represent data structures.
+                ]]>
+            </shortDescription>
+            <description>
+                <![CDATA[
+                    The comet.data package contains the classes and the interfaces that represent data structures.
+                ]]>
+            </description>
+        </package>
+        <package name="comet.data.score">
+            <shortDescription>
+                <![CDATA[
+                    The comet.data.score package contains the classes and the interfaces to construct score data.
+                ]]>
+            </shortDescription>
+            <description>
+                <![CDATA[
+                    The comet.data.score package contains the classes and the interfaces to construct score data.
+                ]]>
+            </description>
+        </package>
+        <package name="comet.data.score.loaders">
+            <shortDescription>
+                <![CDATA[
+                    The comet.data.score.loaders package contains the classes and the interfaces to load score data from text.
+                ]]>
+            </shortDescription>
+            <description>
+                <![CDATA[
+                    The comet.data.score.loaders package contains the classes and the interfaces to load score data from text.
+                ]]>
+            </description>
+        </package>
+        <package name="comet.events">
+            <shortDescription>
+                <![CDATA[
+                    The comet.events package contains the event classes.
+                ]]>
+            </shortDescription>
+            <description>
+                <![CDATA[
+                    The comet.events package contains the event classes.
+                ]]>
+            </description>
+        </package>
+        <package name="comet.game">
+            <shortDescription>
+                <![CDATA[
+                    The comet.game pacakge contains the classes and the interfaces that are relevant to game.
+                ]]>
+            </shortDescription>
+            <description>
+                <![CDATA[
+                    The comet.game pacakge contains the classes and the interfaces that are relevant to game.
+                ]]>
+            </description>
+        </package>
+        <package name="comet.game.input">
+            <shortDescription>
+                <![CDATA[
+                    The comet.game.input pacakge contains the classes and the interfaces to get inputs.
+                ]]>
+            </shortDescription>
+            <description>
+                <![CDATA[
+                    The comet.game.input pacakge contains the classes and the interfaces to get inputs.
+                ]]>
+            </description>
+        </package>
+        <package name="comet.game.lanes">
+            <shortDescription>
+                <![CDATA[
+                    The comet.game.lanes pacakge contains the classes and the interfaces to construct lanes.
+                ]]>
+            </shortDescription>
+            <description>
+                <![CDATA[
+                    The comet.game.lanes pacakge contains the classes and the interfaces to construct lanes.
+                ]]>
+            </description>
+        </package>
+        <package name="comet.music">
+            <shortDescription>
+                <![CDATA[
+                    The comet.music pacakge contains the classes and the interfaces that are relevant to music.
+                ]]>
+            </shortDescription>
+            <description>
+                <![CDATA[
+                    The comet.music pacakge contains the classes and the interfaces that are relevant to music.
+                ]]>
+            </description>
+        </package>
+    </packages>
+</overviews>
