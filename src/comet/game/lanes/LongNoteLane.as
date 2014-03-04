@@ -225,7 +225,7 @@ package comet.game.lanes
                         entity.duration--;
                         switch(this._style)
                         {
-                            case LongNoteStyle.IIDX:
+                            case LongNoteStyle.KM:
                                 if(entity.duration <= -this._hitRange)
                                 {
                                     if(dispatchEvents)
@@ -362,7 +362,7 @@ package comet.game.lanes
                         {
                             switch(this._style)
                             {
-                                case LongNoteStyle.IIDX:
+                                case LongNoteStyle.KM:
                                     if(Math.abs(headEntity.duration) < this._hitRange)
                                     {
                                         this.dispatchEvent(

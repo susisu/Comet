@@ -7,7 +7,7 @@
 
 package comet.game.lanes
 {
-
+    
     /**
     * The LongNoteStyle class provides constant values to specify the style of long notes.
     *
@@ -24,9 +24,9 @@ package comet.game.lanes
         public static const DDR:String = "ddr";
 
         /**
-        * Specified that the style of long notes is IIDX style.
+        * Specified that the style of long notes is KM style.
         */
-        public static const IIDX:String = "iidx";
+        public static const KM:String = "km";
 
     }
 
